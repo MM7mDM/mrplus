@@ -1234,7 +1234,7 @@ font-size: 19px;
 
 /* Your app custom styles here */
 .page-content {
-	background-color: #1c1c28;
+	background-color: #000000;
   }
   .tabbar-labels {
 	background-color: rgb(40, 41, 61, 0.8);
@@ -1662,7 +1662,6 @@ img {vertical-align: middle;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.2s ease;
 }
 
 .img-slide {
