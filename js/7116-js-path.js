@@ -1,0 +1,1 @@
+"use strict";var routes=[{path:'/',url:'./index.html',name:'home',},{path:'/status/',url:'./pages/status.php',},{path:'/jb/',url:'./pages/jb.php',},];
