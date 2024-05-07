@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Roboto', sans-serif;
 	padding: 0;
 	margin: 0;
-	color: #454545;
+	color: #ffffff;
 }
 
 h1 {
@@ -1234,7 +1234,7 @@ font-size: 19px;
 
 /* Your app custom styles here */
 .page-content {
-	background-color: #000000;
+ background-image: url("background.jpg");
   }
   .tabbar-labels {
 	background-color: rgb(40, 41, 61, 0.8);
