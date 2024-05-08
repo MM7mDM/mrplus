@@ -1276,13 +1276,13 @@ font-size: 19px;
   .get-btn {
 	width: 55px;
 	padding: 6px;
-	background:#F0F1F6;
+	background:#ffffff;
 	border-radius: 18px;
 	display: block;
 	float: right;
 	text-align: center;
 	font-size: 13px;
-	color: #007AFF;
+	color: #000000;
 	font-weight:bold;
 	margin-top: 6px;
   }
