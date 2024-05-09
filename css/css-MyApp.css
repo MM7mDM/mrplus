@@ -104,7 +104,7 @@ p {
   Button
 ---------------------------------*/
 .button-default {
-	background: #ef5350;
+	background: #000000;
 	color: #ffffff;
 	box-shadow: none;
 	margin: 20px 0 10px;
@@ -128,7 +128,7 @@ p {
 }
 
 .button-default:hover {
-	background: #ef5350;
+	background: #000000;
 	opacity: 0.9;
 	box-shadow: none;
 }
