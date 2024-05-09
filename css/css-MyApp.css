@@ -633,7 +633,7 @@ p {
   toolbar bottom
 ---------------------------------*/
 .nge-tollbar-bottom {
-	background: #fff;
+	background: #000000;
 }
 
 .nge-tollbar-bottom .toolbar-inner i {
@@ -643,7 +643,7 @@ p {
 }
 
 .nge-tollbar-bottom .toolbar-inner .tabbar-label i {
-	color: red;
+	color: black;
 	font-size: 5px;
 	line-height: 18px;
 	position: relative;
@@ -657,7 +657,7 @@ p {
 }
 
 .nge-tollbar-bottom .toolbar-inner .tab-link-active {
-	color: #ef5350;
+	color: #000000;
 }
 
 .nge-tollbar-bottom .toolbar-inner .tab-link-active i {
